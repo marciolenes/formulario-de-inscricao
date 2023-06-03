@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Formulário de Inscrição](https://relogiodigitaldinamico.netlify.app)
+- [Formulário de Inscrição](https://formulario-inscricao-e-login.netlify.app/)
