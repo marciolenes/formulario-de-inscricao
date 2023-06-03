@@ -1,7 +1,8 @@
 ##  Formulário de Inscrição [Inscrição/Login]
 <br>
 <p align="center">
-  <img src="screenshot.do.projeto.png"></img>
+  <img src="screenshot.do.projeto [inscricao].png"></img>
+  <img src="screenshot.do.projeto [login].png"></img>
 </p>
 <br>
 
@@ -17,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Relógio Digital](https://relogiodigitaldinamico.netlify.app)
+- [Formulário de Inscrição](https://relogiodigitaldinamico.netlify.app)
